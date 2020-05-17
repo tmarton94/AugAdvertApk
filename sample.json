@@ -1,0 +1,54 @@
+[
+   {
+      "placeID":64,
+      "latitude":47.112558,
+      "longitude":18.132942,
+      "name":"focipalya",
+      "details":"ez a berhidai focipálya a sulinál",
+      "url":"https://9gag.com/",
+      "isCustom":true,
+      "type":0,
+      "pictureInfo":null,
+      "pictureData":"",
+      "contentType":"image/jpeg"
+   },
+   {
+      "placeID":71,
+      "latitude":47.108831,
+      "longitude":18.130902,
+      "name":"Berhida kis park",
+      "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut tincidunt ex. Etiam at risus vel ipsum congue tincidunt. Integer ex nulla, bibendum vitae suscipit non, sagittis nec diam. Vestibulum luctus neque dui, et elementum odio semper euismod. Proin suscipit in erat sit amet tristique. Cras at condimentum diam, quis aliquam eros.",
+      "url":null,
+      "isCustom":false,
+      "type":5,
+      "pictureInfo":null,
+      "pictureData":"",
+      "contentType":"image/jpeg"
+   },
+   {
+      "placeID":73,
+      "latitude":47.110735,
+      "longitude":18.135354,
+      "name":"Berhida nagy presszó",
+      "details":"Praesent quis risus ut nibh interdum hendrerit sed in dolor. Maecenas aliquam, enim non vestibulum rhoncus, felis diam ullamcorper purus, in hendrerit diam massa at neque. ",
+      "url":null,
+      "isCustom":true,
+      "type":0,
+      "pictureInfo":null,
+      "pictureData":"",
+      "contentType":"image/jpeg"
+   },
+   {
+      "placeID":74,
+      "latitude":47.112824,
+      "longitude":18.131502,
+      "name":"Bezerédi Abc",
+      "details":"Berhida, Bezerédi u., 8181",
+      "url":"https://www.coop.hu/",
+      "isCustom":false,
+      "type":4,
+      "pictureInfo":null,
+      "pictureData":"",
+      "contentType":"image/jpeg"
+   }
+]
